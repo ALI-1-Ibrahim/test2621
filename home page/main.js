@@ -145,7 +145,7 @@ return response.json();
       // document.body.style.flexDirection = "column";
       // document.body.style.alignItems = "center";
       // document.body.style.justifyContent= "center";
-      document.getElementById("PreLoader").style.display="none";
+//       document.getElementById("PreLoader").style.display="none";//////////////////////////////////////////////////////////////////////////////////////////////
   // document.getElementsByClassName("circles")[0].style.display="none";
   
   var pic = localStorage.getItem("pic")
